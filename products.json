@@ -120,6 +120,12 @@
           "price": 33
         },
         {
+          "id": "makantamia-psimeno",
+          "name": "Μακαντάμια",
+          "description": "Ψημένο",
+          "price": 33
+        },        
+        {
           "id": "pekan-omo",
           "name": "Πεκάν",
           "description": "Ωμό",

@@ -1,0 +1,688 @@
+{
+  "categories": [
+    {
+      "id": "dried-nuts",
+      "title": "Ξηροί Καρποί",
+      "priceUnit": "kilo",
+      "products": [
+        {
+          "id": "amygdalopsicha-texas-omi",
+          "name": "Αμυγδαλόψιχα",
+          "description": "Τέξας ωμή",
+          "price": 15
+        },
+        {
+          "id": "amygdalopsicha-fyrania-omi",
+          "name": "Αμυγδαλόψιχα",
+          "description": "Φυρανιά ωμή",
+          "price": 15
+        },
+        {
+          "id": "pikramygdalo-omo",
+          "name": "Πικραμύγδαλο",
+          "description": "Ωμό",
+          "price": 25
+        },
+        {
+          "id": "fistiki-serron-psimeno-almyro",
+          "name": "Φιστίκι Σερρών",
+          "description": "Ψημένο αλμυρό",
+          "price": 7
+        },
+        {
+          "id": "fistiki-serron-psimeno-analato",
+          "name": "Φιστίκι Σερρών",
+          "description": "Ψημένο ανάλατο",
+          "price": 7
+        },
+        {
+          "id": "pinats-almyro",
+          "name": "Πινατς",
+          "description": "Αλμυρό",
+          "price": 6
+        },
+        {
+          "id": "fistiki-kelyfoto-psimeno-almyro",
+          "name": "Φιστίκι κελυφωτό",
+          "description": "Ψημένο αλμυρό",
+          "price": 20
+        },
+        {
+          "id": "fistiki-kelyfoto-psimeno-analato",
+          "name": "Φιστίκι κελυφωτό",
+          "description": "Ψημένο ανάλατο",
+          "price": 20
+        },
+        {
+          "id": "fistiki-kelyfoto-omo",
+          "name": "Φιστίκι κελυφωτό",
+          "description": "Ωμό",
+          "price": 16
+        },
+        {
+          "id": "fistiki-kelyfoto-omi-psicha",
+          "name": "Φιστίκι κελυφωτό",
+          "description": "Ωμή ψίχα",
+          "price": 36
+        },
+        {
+          "id": "kasioys-tiganito-almyro",
+          "name": "Κάσιους",
+          "description": "Τηγανητό αλμυρό",
+          "price": 19.5
+        },
+        {
+          "id": "kasioys-psimeno-analato",
+          "name": "Κάσιους",
+          "description": "Ψημένο ανάλατο",
+          "price": 19.5
+        },
+        {
+          "id": "kasioys-omo",
+          "name": "Κάσιους",
+          "description": "Ωμό",
+          "price": 16
+        },
+        {
+          "id": "karydopsicha-omi",
+          "name": "Καρυδόψιχα",
+          "description": "Ωμή",
+          "price": 15
+        },
+        {
+          "id": "karydi-me-kelyfos",
+          "name": "Καρύδι",
+          "description": "Με κέλυφος",
+          "price": 7
+        },
+        {
+          "id": "foyntoykopsicha-omi",
+          "name": "Φουντουκόψιχα",
+          "description": "Ωμή",
+          "price": 27
+        },
+        {
+          "id": "foyntoykopsicha-psimeni-analati",
+          "name": "Φουντουκόψιχα",
+          "description": "Ψημένη ανάλατη",
+          "price": 28
+        },
+        {
+          "id": "mprazil-nats-omo",
+          "name": "Μπραζίλ νατς",
+          "description": "Ωμό",
+          "price": 33
+        },
+        {
+          "id": "makantamia-omo",
+          "name": "Μακαντάμια",
+          "description": "Ωμό",
+          "price": 33
+        },
+        {
+          "id": "pekan-omo",
+          "name": "Πεκάν",
+          "description": "Ωμό",
+          "price": 25
+        },
+        {
+          "id": "stragali-malako-psimeno-almyro",
+          "name": "Στραγάλι μαλακό",
+          "description": "Ψημένο αλμυρό",
+          "price": 6
+        },
+        {
+          "id": "stragali-malako-psimeno-analato",
+          "name": "Στραγάλι μαλακό",
+          "description": "Ψημένο ανάλατο",
+          "price": 6
+        },
+        {
+          "id": "fistiki-karamelomeno",
+          "name": "Φιστίκι",
+          "description": "Καραμελομένο",
+          "price": 9
+        },
+        {
+          "id": "amygdalo-karamelomeno",
+          "name": "Αμύγδαλο",
+          "description": "Καραμελομένο",
+          "price": 18
+        },
+        {
+          "id": "spori-mayro-psimeno-almyro",
+          "name": "Σπόρι μαύρο",
+          "description": "Ψημένο αλμυρό",
+          "price": 6
+        },
+        {
+          "id": "spori-mayro-psimeno-analato",
+          "name": "Σπόρι μαύρο",
+          "description": "Ψημένο ανάλατο",
+          "price": 6
+        },
+        {
+          "id": "spori-aspro-psimeno-almyro",
+          "name": "Σπόρι άσπρο",
+          "description": "Ψημένο αλμυρό",
+          "price": 12
+        },
+        {
+          "id": "spori-aspro-psimeno-analato",
+          "name": "Σπόρι άσπρο",
+          "description": "Ψημένο ανάλατο",
+          "price": 12
+        },
+        {
+          "id": "kolokythosporos-omi-psicha",
+          "name": "Κολοκυθόσπορος",
+          "description": "Ωμή ψίχα",
+          "price": 9
+        },
+        {
+          "id": "iliosporos-omi-psicha",
+          "name": "Ηλιόσπορος",
+          "description": "Ωμή ψίχα",
+          "price": 4
+        },
+        {
+          "id": "pop-korn",
+          "name": "Ποπ κορν",
+          "price": 2
+        },
+        {
+          "id": "soysami-olikis",
+          "name": "Σουσάμι",
+          "description": "Ολικής",
+          "price": 6.5
+        },
+        {
+          "id": "soysami-leyko",
+          "name": "Σουσάμι",
+          "description": "Λευκό",
+          "price": 6.5
+        },
+        {
+          "id": "soysami-mayro",
+          "name": "Σουσάμι",
+          "description": "Μαύρο",
+          "price": 6.5
+        },
+        {
+          "id": "vromi",
+          "name": "Βρώμη",
+          "price": 2.5
+        },
+        {
+          "id": "pitoyro-vromis-bio",
+          "name": "Πίτουρο βρώμης",
+          "description": "Bio",
+          "price": 10
+        }
+      ]
+    },
+    {
+      "id": "dried-fruits",
+      "title": "Αποξηραμένα Φρούτα",
+      "priceUnit": "kilo",
+      "products": [
+        {
+          "id": "stafida-mayri-korinthiaki",
+          "name": "Σταφίδα μαύρη",
+          "description": "Κορινθιακή",
+          "price": 8
+        },
+        {
+          "id": "stafida-xanthia-soyltanina-korinthoy",
+          "name": "Σταφίδα ξανθιά",
+          "description": "Σουλτανίνα Κορίνθου",
+          "price": 12
+        },
+        {
+          "id": "kranmperi-me-zachari",
+          "name": "Κράνμπερι",
+          "description": "Με ζάχαρη",
+          "price": 8
+        },
+        {
+          "id": "kranmperi-choris-zachari",
+          "name": "Κράνμπερι",
+          "description": "Χωρίς Ζάχαρη",
+          "price": 12.5
+        },
+        {
+          "id": "syko-leyko-theio",
+          "name": "Σύκο",
+          "description": "Λευκό (θείο)",
+          "price": 14.5
+        },
+        {
+          "id": "syko-fysiko",
+          "name": "Σύκο",
+          "description": "Φυσικό",
+          "price": 14
+        },
+        {
+          "id": "damaskino-me-koykoytsi",
+          "name": "Δαμάσκηνο",
+          "description": "Με κουκούτσι",
+          "price": 9.5
+        },
+        {
+          "id": "damaskino-choris-koykoytsi",
+          "name": "Δαμάσκηνο",
+          "description": "Χωρίς κουκούτσι",
+          "price": 12
+        },
+        {
+          "id": "choyrmas-nour-tynisias",
+          "name": "Χουρμάς",
+          "description": "Nour Τυνησίας",
+          "price": 4.5
+        },
+        {
+          "id": "choyrmas-vasilikos-israil",
+          "name": "Χουρμάς",
+          "description": "Βασιλικός Ισραήλ",
+          "price": 13
+        },
+        {
+          "id": "choyrmas-fysikos-kladi",
+          "name": "Χουρμάς",
+          "description": "Φυσικός Κλαδί",
+          "price": 7
+        },
+        {
+          "id": "verikoko",
+          "name": "Βερίκοκο",
+          "price": 15
+        },
+        {
+          "id": "portokali-me-glykozi",
+          "name": "Πορτοκάλι",
+          "description": "Με γλυκόζη",
+          "price": 7
+        },
+        {
+          "id": "fraoyla-osmotiki-choris-zachari",
+          "name": "Φράουλα",
+          "description": "Οσμωτική (χωρίς ζάχαρη)",
+          "price": 24
+        },
+        {
+          "id": "damaskino-osmotiko-choris-zachari",
+          "name": "Δαμάσκηνο",
+          "description": "Οσμωτικό (χωρίς ζάχαρη)",
+          "price": 14
+        },
+        {
+          "id": "ananas-osmotiko-choris-zachari",
+          "name": "Ανανάς",
+          "description": "Οσμωτικό (χωρίς ζάχαρη)",
+          "price": 24
+        },
+        {
+          "id": "papagia-zacharomeni",
+          "name": "Παπάγια",
+          "description": "Ζαχαρωμένη",
+          "price": 10
+        },
+        {
+          "id": "mangko-osmotiko-choris-zachari",
+          "name": "Μάνγκο",
+          "description": "Οσμωτικό (χωρίς ζάχαρη)",
+          "price": 24
+        },
+        {
+          "id": "mangko-zacharomeno",
+          "name": "Μάνγκο",
+          "description": "Ζαχαρωμένο",
+          "price": 13
+        },
+        {
+          "id": "kydoni-osmotiko-choris-zachari",
+          "name": "Κυδώνι",
+          "description": "Οσμωτικό (χωρίς ζάχαρη)",
+          "price": 20
+        },
+        {
+          "id": "mpanana-tsips-me-meli-kai-zachari",
+          "name": "Μπανάνα τσίπς",
+          "description": "Με μέλι και ζάχαρη",
+          "price": 6
+        },
+        {
+          "id": "karyda-fleiks-choris-zachari",
+          "name": "Καρύδα φλέικς",
+          "description": "Χωρίς Ζάχαρη",
+          "price": 12
+        },
+        {
+          "id": "milo-kanela-osmotiko-choris-zachari",
+          "name": "Μήλο - Κανέλα",
+          "description": "Οσμωτικό (χωρίς ζάχαρη)",
+          "price": 15
+        },
+        {
+          "id": "milo-kanela-zacharomeno",
+          "name": "Μήλο - Κανέλα",
+          "description": "Ζαχαρωμένο",
+          "price": 17.5
+        },
+        {
+          "id": "achladi-osmotiko-choris-zachari",
+          "name": "Αχλάδι",
+          "description": "Οσμωτικό (χωρίς ζάχαρη)",
+          "price": 19
+        },
+        {
+          "id": "rodakino-osmotiko-choris-zachari",
+          "name": "Ροδάκινο",
+          "description": "Οσμωτικό (χωρίς ζάχαρη)",
+          "price": 24
+        },
+        {
+          "id": "mplakmperi-osmotiko-choris-zachari",
+          "name": "Μπλάκμπερι",
+          "description": "Οσμωτικό (χωρίς ζάχαρη)",
+          "price": 24
+        },
+        {
+          "id": "kitro-zacharomeno",
+          "name": "Κίτρο",
+          "description": "Ζαχαρωμένο",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "id": "nut-pastes",
+      "title": "Άλλειμα Καρπών",
+      "priceUnit": "kilo",
+      "products": [
+        {
+          "id": "fistikovoytyro-choris-prostheta",
+          "name": "Φιστικοβούτυρο",
+          "description": "Χωρίς πρόσθετα",
+          "price": 7
+        },
+        {
+          "id": "fistikovoytyro-me-kakao",
+          "name": "Φιστικοβούτυρο",
+          "description": "Με κακάο",
+          "price": 7
+        },
+        {
+          "id": "fistikovoytyro-me-charoypi",
+          "name": "Φιστικοβούτυρο",
+          "description": "Με χαρούπι",
+          "price": 7
+        },
+        {
+          "id": "fistikovoytyro-me-33-prote-ni-sogias",
+          "name": "Φιστικοβούτυρο",
+          "description": "Με 33% πρωτεΐνη σόγιας",
+          "price": 7
+        },
+        {
+          "id": "amygdalovoytyro-choris-prostheta",
+          "name": "Αμυγδαλοβούτυρο",
+          "description": "Χωρίς πρόσθετα",
+          "price": 16
+        },
+        {
+          "id": "foyntoykovoytyro-choris-prostheta",
+          "name": "Φουντουκοβούτυρο",
+          "description": "Χωρίς πρόσθετα",
+          "price": 30
+        },
+        {
+          "id": "foyntoykovoytyro-me-kakao",
+          "name": "Φουντουκοβούτυρο",
+          "description": "Με κακάο",
+          "price": 28
+        },
+        {
+          "id": "tachini-olikis-choris-prostheta",
+          "name": "Ταχίνι ολικής",
+          "description": "Χωρίς πρόσθετα",
+          "price": 8
+        },
+        {
+          "id": "tachini-olikis-me-kakao",
+          "name": "Ταχίνι ολικής",
+          "description": "Με κακάο",
+          "price": 8
+        },
+        {
+          "id": "tachini-olikis-me-meli",
+          "name": "Ταχίνι ολικής",
+          "description": "Με μέλι",
+          "price": 8
+        },
+        {
+          "id": "alleima-kasioys-choris-prostheta",
+          "name": "Άλλειμα κάσιους",
+          "description": "Χωρίς πρόσθετα",
+          "price": 16
+        },
+        {
+          "id": "alleima-aiginis-choris-prostheta",
+          "name": "Άλλειμα αιγίνης",
+          "description": "Χωρίς πρόσθετα",
+          "price": 30
+        },
+        {
+          "id": "meli-serron-anthomelo-peykomelo",
+          "name": "Μέλι Σερρών",
+          "description": "Ανθόμελο/Πευκόμελο",
+          "price": 9
+        }
+      ]
+    },
+    {
+      "id": "snacks",
+      "title": "Σνακς",
+      "priceUnit": "kilo",
+      "products": [
+        {
+          "id": "kalampoki-bbq",
+          "name": "Καλαμπόκι BBQ",
+          "price": 7
+        },
+        {
+          "id": "choyanita-zolita",
+          "name": "Χουανίτα (Ζολίτα)",
+          "price": 7
+        },
+        {
+          "id": "kraker-mix-typoy-iaponias",
+          "name": "Κράκερ Μιξ",
+          "description": "Τύπου Ιαπωνίας",
+          "price": 12
+        },
+        {
+          "id": "kokteil-snak",
+          "name": "Κοκτέιλ σνακ",
+          "price": 7
+        },
+        {
+          "id": "garida-spicy",
+          "name": "Γαρίδα",
+          "description": "Spicy",
+          "price": 7
+        },
+        {
+          "id": "krokerino",
+          "name": "Κροκερίνο",
+          "price": 7
+        },
+        {
+          "id": "kraker-ryzioy-tiganito-tsili",
+          "name": "Κράκερ ρυζιού τηγανητό",
+          "description": "Τσίλι",
+          "price": 12
+        },
+        {
+          "id": "kraker-ryzioy-tiganito-bbq",
+          "name": "Κράκερ ρυζιού τηγανητό",
+          "description": "BBQ",
+          "price": 14.5
+        },
+        {
+          "id": "kraker-ryzioy-psito-bbq-spicy",
+          "name": "Κράκερ ρυζιού ψητό",
+          "description": "BBQ Spicy",
+          "price": 12
+        },
+        {
+          "id": "kraker-ryzioy-tiganito-ntomata-votana",
+          "name": "Κράκερ ρυζιού τηγανητό",
+          "description": "Ντομάτα βότανα",
+          "price": 12
+        },
+        {
+          "id": "kraker-ryzioy-psito-rigani",
+          "name": "Κράκερ ρυζιού ψητό",
+          "description": "Ρίγανη",
+          "price": 12
+        },
+        {
+          "id": "kraker-ryzioy-psito-tsili",
+          "name": "Κράκερ ρυζιού ψητό",
+          "description": "Τσίλι",
+          "price": 12
+        },
+        {
+          "id": "kraker-soysamioy-mix-piperion",
+          "name": "Κράκερ σουσαμιού",
+          "description": "Μιξ πιπεριών",
+          "price": 14.5
+        },
+        {
+          "id": "pasteli-cheiropoiito-me-fistiki",
+          "name": "Παστέλι χειροποίητο",
+          "description": "Με φιστίκι",
+          "price": 9
+        }
+      ]
+    },
+    {
+      "id": "corn-flakes",
+      "title": "Κορν Φλέικς",
+      "priceUnit": "kilo",
+      "products": [
+        {
+          "id": "korn-fleiks-olikis",
+          "name": "Κόρν φλέικς",
+          "description": "Ολικής",
+          "price": 5.5
+        },
+        {
+          "id": "korn-fleiks-kalampokioy",
+          "name": "Κόρν φλέικς",
+          "description": "Καλαμποκιού",
+          "price": 4.5
+        },
+        {
+          "id": "korn-fleiks-dachtylidi-melioy",
+          "name": "Κόρν φλέικς",
+          "description": "Δαχτυλίδι μελιού",
+          "price": 6
+        },
+        {
+          "id": "korn-fleiks-choco",
+          "name": "Κόρν φλέικς",
+          "description": "Choco",
+          "price": 7
+        },
+        {
+          "id": "mpran-fleiks-xiroi-karpoi-apox-froyta",
+          "name": "Μπράν φλέικς",
+          "description": "Ξηροί καρποί/ Αποξ φρούτα",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "id": "dough-products",
+      "title": "Προϊόντα Ζύμης",
+      "priceUnit": "piece",
+      "products": [
+        {
+          "id": "fyllota-lachana-small-6tmch",
+          "name": "Φυλλωτά Λαχανά",
+          "description": "Small (6τμχ)",
+          "price": 4.5
+        },
+        {
+          "id": "fyllota-lachana-medium-6tmch",
+          "name": "Φυλλωτά Λαχανά",
+          "description": "Medium (6τμχ)",
+          "price": 5
+        },
+        {
+          "id": "diples",
+          "name": "Δίπλες",
+          "price": 5
+        },
+        {
+          "id": "yvriston",
+          "name": "Υβριστόν",
+          "price": 6
+        },
+        {
+          "id": "syron",
+          "name": "Συρόν",
+          "price": 7
+        },
+        {
+          "id": "trachanas-lachana-glykos-xinos",
+          "name": "Τραχανάς Λαχανά",
+          "description": "Γλυκός/Ξινός",
+          "price": 4
+        },
+        {
+          "id": "trachanas-cook-me-glykos-xinos-lachanikon",
+          "name": "Τραχανάς Cook me",
+          "description": "Γλυκός/Ξινός/Λαχανικών",
+          "price": 3.5
+        },
+        {
+          "id": "koyskoysaki",
+          "name": "Κουσκουσάκι",
+          "price": 3.5
+        },
+        {
+          "id": "pligoyri",
+          "name": "Πλιγούρι",
+          "price": 3
+        },
+        {
+          "id": "fylla-kroystas-psilo-500gr-8tmch",
+          "name": "Φύλλα Κρούστας",
+          "description": "Ψιλό (500γρ/8τμχ)",
+          "price": 2.5
+        },
+        {
+          "id": "fylla-pitas-chontro-500gr-8tmch",
+          "name": "Φύλλα πίτας",
+          "description": "Χοντρό (500γρ/8τμχ)",
+          "price": 2.5
+        },
+        {
+          "id": "aleyri-gia-oles-tis-chriseis",
+          "name": "Αλεύρι",
+          "description": "Για όλες τις χρήσεις",
+          "price": 0.8
+        },
+        {
+          "id": "aleyri-gia-tsoyreki",
+          "name": "Αλεύρι",
+          "description": "Για τσουρέκι",
+          "price": 1.9
+        }
+      ]
+    }
+  ]
+}

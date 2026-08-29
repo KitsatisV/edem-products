@@ -392,12 +392,203 @@
           "name": "Κίτρο",
           "description": "Ζαχαρωμένο",
           "price": 12
-        },
+        }
+      ]
+    },
+    {
+      "id": "coffee",
+      "title": "Καφές",
+      "priceUnit": "kilo",
+      "products": [
         {
           "id": "ellinikos-kafes-xanthos-pros-skoyros",
           "name": "Ελληνικός καφές",
           "description": "Ξανθός προς σκούρος",
           "price": 24
+        }
+      ]
+    },
+    {
+      "id": "legumes",
+      "title": "Όσπρια",
+      "priceUnit": "kilo",
+      "products": [
+        {
+          "id": "fasolia-melenekitsioy",
+          "name": "Φασόλια",
+          "description": "Μελενεκιτσίου",
+          "price": 3.5
+        },
+        {
+          "id": "fakes-melenekitsioy",
+          "name": "Φακές",
+          "description": "Μελενεκιτσίου",
+          "price": 3.5
+        },
+        {
+          "id": "revythia-melenekitsioy",
+          "name": "Ρεβύθια",
+          "description": "Μελενεκιτσίου",
+          "price": 4
+        }
+      ]
+    },
+    {
+      "id": "dough-products",
+      "title": "Προϊόντα Ζύμης",
+      "priceUnit": "piece",
+      "products": [
+        {
+          "id": "fyllota-lachana-small-6tmch",
+          "name": "Φυλλωτά Λαχανά",
+          "description": "Small (6τμχ)",
+          "price": 4.5
+        },
+        {
+          "id": "fyllota-lachana-medium-6tmch",
+          "name": "Φυλλωτά Λαχανά",
+          "description": "Medium (6τμχ)",
+          "price": 5
+        },
+        {
+          "id": "diples",
+          "name": "Δίπλες",
+          "price": 5
+        },
+        {
+          "id": "yvriston",
+          "name": "Υβριστόν",
+          "price": 6
+        },
+        {
+          "id": "syron",
+          "name": "Συρόν",
+          "price": 7
+        },
+        {
+          "id": "trachanas-lachana-glykos-xinos",
+          "name": "Τραχανάς Λαχανά",
+          "description": "Γλυκός/Ξινός",
+          "price": 4
+        },
+        {
+          "id": "trachanas-cook-me-glykos-xinos-lachanikon",
+          "name": "Τραχανάς Cook me",
+          "description": "Γλυκός/Ξινός/Λαχανικών",
+          "price": 3.5
+        },
+        {
+          "id": "koyskoysaki",
+          "name": "Κουσκουσάκι",
+          "price": 3.5
+        },
+        {
+          "id": "pligoyri",
+          "name": "Πλιγούρι",
+          "price": 3
+        },
+        {
+          "id": "fylla-kroystas-psilo-500gr-8tmch",
+          "name": "Φύλλα Κρούστας",
+          "description": "Ψιλό (500γρ/8τμχ)",
+          "price": 2.5
+        },
+        {
+          "id": "fylla-pitas-chontro-500gr-8tmch",
+          "name": "Φύλλα πίτας",
+          "description": "Χοντρό (500γρ/8τμχ)",
+          "price": 2.5
+        },
+        {
+          "id": "aleyri-gia-oles-tis-chriseis",
+          "name": "Αλεύρι",
+          "description": "Για όλες τις χρήσεις",
+          "price": 0.8
+        },
+        {
+          "id": "aleyri-gia-tsoyreki",
+          "name": "Αλεύρι",
+          "description": "Για τσουρέκι",
+          "price": 1.9
+        }
+      ]
+    },
+    {
+      "id": "juices",
+      "title": "Χυμοί",
+      "priceUnit": "piece",
+      "products": [
+        {
+          "id": "chymos-serraia-250ml-rodimilo-rodi-stafyli",
+          "name": "Χυμός Σερραία 250ml",
+          "description": "Ρόδι, Μήλο-ρόδι,Σταφύλι",
+          "price": 2
+        },
+        {
+          "id": "chymos-serraia-250ml-milo-xinomilo-achladi",
+          "name": "Χυμός Σερραία 250ml",
+          "description": "Μήλο, Ξινόμηλο, Αχλάδι",
+          "price": 2
+        },
+        {
+          "id": "chymos-serraia-1500ml-rodi-se-asko",
+          "name": "Χυμός Σερραία 1500ml",
+          "description": "Ρόδι (σε ασκό)",
+          "price": 10
+        },
+        {
+          "id": "chymos-serraia-1500ml-milo-rodi-se-asko",
+          "name": "Χυμός Σερραία 1500ml",
+          "description": "Μήλο-Ρόδι (σε ασκό)",
+          "price": 9
+        },
+        {
+          "id": "chymos-serraia-1500ml-milo-se-asko",
+          "name": "Χυμός Σερραία 1500ml",
+          "description": "Μήλο (σε ασκό)",
+          "price": 8
+        },
+        {
+          "id": "chymos-serraia-1500ml-xinomilo-se-asko",
+          "name": "Χυμός Σερραία 1500ml",
+          "description": "Ξινόμηλο (σε ασκό)",
+          "price": 8
+        },
+        {
+          "id": "chymos-serraia-1500ml-achladi-se-asko",
+          "name": "Χυμός Σερραία 1500ml",
+          "description": "Αχλάδι (σε ασκό)",
+          "price": 8.5
+        },
+        {
+          "id": "chymos-serraia-1500ml-stafyli-se-asko",
+          "name": "Χυμός Σερραία 1500ml",
+          "description": "Σταφύλι (σε ασκό)",
+          "price": 8.5
+        }
+      ]
+    },
+    {
+      "id": "chocolate-products",
+      "title": "Προϊόντα Σοκολάτας",
+      "priceUnit": "piece",
+      "products": [
+        {
+          "id": "koyvertoyra-ion-stagones",
+          "name": "Κουβερτούρα ΙΟΝ",
+          "description": "Σταγόνες",
+          "price": 20
+        },
+        {
+          "id": "koyvertoyra-apom-stagones",
+          "name": "Κουβερτούρα Απομ.",
+          "description": "Σταγόνες",
+          "price": 6
+        },
+        {
+          "id": "sokolatenies-elitses",
+          "name": "Σοκολατένιες ελίτσες",
+          "price": 14
         }
       ]
     },
@@ -487,6 +678,164 @@
       ]
     },
     {
+      "id": "pralines",
+      "title": "Πραλίνες",
+      "priceUnit": "kilo",
+      "products": [
+        {
+          "id": "nucrema-bueno",
+          "name": "Nucrema Bueno",
+          "price": 8
+        },
+        {
+          "id": "pralina-fraoyla",
+          "name": "Πραλίνα Φράουλα",
+          "price": 5
+        },
+        {
+          "id": "pralina-banana",
+          "name": "Πραλίνα Μπανάνα",
+          "price": 5
+        },
+        {
+          "id": "merenda-paylidi",
+          "name": "Merenda Παυλίδη",
+          "price": 7.5
+        },
+        {
+          "id": "mpiskoto-speculoos",
+          "name": "Μπισκότο Speculoos",
+          "price": 9
+        },
+        {
+          "id": "ion-leyki-sokolata",
+          "name": "ION λευκή σοκολάτα",
+          "price": 6
+        }
+      ]
+    },
+    {
+      "id": "jams-spoon-sweets",
+      "title": "Μαρμελάδες - Γλυκά του κουταλιού",
+      "priceUnit": "piece",
+      "products": [
+        {
+          "id": "marmelada-alta-verikoko",
+          "name": "Μαρμελάδα Alta",
+          "description": "Βερίκοκο",
+          "price": 2.5
+        },
+        {
+          "id": "marmelada-alta-syko",
+          "name": "Μαρμελάδα Alta",
+          "description": "Σύκο",
+          "price": 2.5
+        },
+        {
+          "id": "marmelada-alta-rodakino",
+          "name": "Μαρμελάδα Alta",
+          "description": "Ροδάκινο",
+          "price": 2.5
+        },
+        {
+          "id": "marmelada-alta-fraoyla",
+          "name": "Μαρμελάδα Alta",
+          "description": "Φράουλα",
+          "price": 2.5
+        },
+        {
+          "id": "melasa-evergreen",
+          "name": "Μελάσα Evergreen",
+          "price": 3.6
+        },
+        {
+          "id": "glyko-koytalio-agriosyko",
+          "name": "Γλυκό του κουταλιού",
+          "description": "Αγριόσυκο",
+          "price": 5
+        },
+        {
+          "id": "glyko-koytalio-kerasi",
+          "name": "Γλυκό του κουταλιού",
+          "description": "Κεράσι",
+          "price": 7.5
+        },
+        {
+          "id": "glyko-koytalio-pergamotonto",
+          "name": "Γλυκό του κουταλιού",
+          "description": "Περγαμόντο",
+          "price": 5
+        },
+        {
+          "id": "glyko-koytalio-karydaki",
+          "name": "Γλυκό του κουταλιού",
+          "description": "Καρυδάκι",
+          "price": 5
+        },
+        {
+          "id": "glyko-koytalio-agriovissino",
+          "name": "Γλυκό του κουταλιού",
+          "description": "Αγριοβύσσινο",
+          "price": 7.5
+        },
+        {
+          "id": "ypovrychio-elma-masticha-chioy",
+          "name": "Υποβρύχιο ΕΛΜΑ",
+          "description": "Μαστίχα Χίου",
+          "price": 2.5
+        }
+      ]
+    },
+    {
+      "id": "bars",
+      "title": "Μπάρες",
+      "priceUnit": "piece",
+      "products": [
+        {
+          "id": "pasteli-ell-karpos-fistiki-fistikovoytyro",
+          "name": "Παστέλι Ελλ. Καρπός",
+          "description": "Φιστίκι & Φιστικοβούτυρο",
+          "price": 1.2
+        },
+        {
+          "id": "pasteli-ell-karpos-soysami-fistikovoytyro",
+          "name": "Παστέλι Ελλ. Καρπός",
+          "description": "σουσάμι & φιστικοβούτυρο",
+          "price": 1.2
+        },
+        {
+          "id": "mpares-energeias-ell-karpos-fistikovoytyro",
+          "name": "Μπάρες ενέργειας Ελλ. Καρπός",
+          "description": "Φιστικοβούτυρο",
+          "price": 1.5
+        },
+        {
+          "id": "mpares-energeias-ell-karpos-froyta-toy-dasoys",
+          "name": "Μπάρες ενέργειας Ελλ. Καρπός",
+          "description": "Φρούτα του δάσους",
+          "price": 1.5
+        },
+        {
+          "id": "mpares-energeias-ell-karpos-karyda-sokolata",
+          "name": "Μπάρες ενέργειας Ελλ. Καρπός",
+          "description": "Καρύδα-σοκολάτα",
+          "price": 1.5
+        },
+        {
+          "id": "vaflaki-boukitses-ell-karpos-fistikovoytyro",
+          "name": "Βαφλάκια μπουκίτσες Ελλ.καρπός",
+          "description": "Φιστικοβούτυρο",
+          "price": 2.5
+        },
+        {
+          "id": "pasteli-cheiropoiito-me-fistiki",
+          "name": "Παστέλι χειροποίητο",
+          "description": "Με φιστίκι",
+          "price": 9
+        }
+      ]
+    },
+    {
       "id": "snacks",
       "title": "Σνακς",
       "priceUnit": "kilo",
@@ -564,7 +913,14 @@
           "name": "Κράκερ σουσαμιού",
           "description": "Μιξ πιπεριών",
           "price": 14.5
-        },
+        }
+      ]
+    },
+    {
+      "id": "potato-chips",
+      "title": "Πατατάκια",
+      "priceUnit": "piece",
+      "products": [
         {
           "id": "chips-ell-karpos-alati-280gr",
           "name": "Chips Ελλ. Καρπός",
@@ -576,298 +932,6 @@
           "name": "Chips Ελλ. Καρπός",
           "description": "Ρίγανη 280γρ",
           "price": 2.2
-        }
-      ]
-    },
-    {
-      "id": "corn-flakes",
-      "title": "Κορν Φλέικς",
-      "priceUnit": "kilo",
-      "products": [
-        {
-          "id": "korn-fleiks-olikis",
-          "name": "Κόρν φλέικς",
-          "description": "Ολικής",
-          "price": 5.5
-        },
-        {
-          "id": "korn-fleiks-kalampokioy",
-          "name": "Κόρν φλέικς",
-          "description": "Καλαμποκιού",
-          "price": 4.5
-        },
-        {
-          "id": "korn-fleiks-dachtylidi-melioy",
-          "name": "Κόρν φλέικς",
-          "description": "Δαχτυλίδι μελιού",
-          "price": 6
-        },
-        {
-          "id": "korn-fleiks-choco",
-          "name": "Κόρν φλέικς",
-          "description": "Choco",
-          "price": 7
-        },
-        {
-          "id": "mpran-fleiks-xiroi-karpoi-apox-froyta",
-          "name": "Μπράν φλέικς",
-          "description": "Ξηροί καρποί/ Αποξ φρούτα",
-          "price": 8
-        }
-      ]
-    },
-    {
-      "id": "legumes",
-      "title": "Όσπρια",
-      "priceUnit": "kilo",
-      "products": [
-        {
-          "id": "fasolia-melenekitsioy",
-          "name": "Φασόλια",
-          "description": "Μελενεκιτσίου",
-          "price": 3.5
-        },
-        {
-          "id": "fakes-melenekitsioy",
-          "name": "Φακές",
-          "description": "Μελενεκιτσίου",
-          "price": 3.5
-        },
-        {
-          "id": "revythia-melenekitsioy",
-          "name": "Ρεβύθια",
-          "description": "Μελενεκιτσίου",
-          "price": 4
-        }
-      ]
-    },
-    {
-      "id": "juices",
-      "title": "Χυμοί",
-      "priceUnit": "piece",
-      "products": [
-        {
-          "id": "chymos-serraia-250ml-rodi-milo-rodi-stafyli",
-          "name": "Χυμός Σερραία 250ml",
-          "description": "Ρόδι, Μήλο-ρόδι,Σταφύλι",
-          "price": 2
-        },
-        {
-          "id": "chymos-serraia-250ml-milo-xinomilo-achladi",
-          "name": "Χυμός Σερραία 250ml",
-          "description": "Μήλο, Ξινόμηλο, Αχλάδι",
-          "price": 2
-        },
-        {
-          "id": "chymos-serraia-1500ml-rodi-se-asko",
-          "name": "Χυμός Σερραία 1500ml",
-          "description": "Ρόδι (σε ασκό)",
-          "price": 10
-        },
-        {
-          "id": "chymos-serraia-1500ml-milo-rodi-se-asko",
-          "name": "Χυμός Σερραία 1500ml",
-          "description": "Μήλο-Ρόδι (σε ασκό)",
-          "price": 9
-        },
-        {
-          "id": "chymos-serraia-1500ml-milo-se-asko",
-          "name": "Χυμός Σερραία 1500ml",
-          "description": "Μήλο (σε ασκό)",
-          "price": 8
-        },
-        {
-          "id": "chymos-serraia-1500ml-xinomilo-se-asko",
-          "name": "Χυμός Σερραία 1500ml",
-          "description": "Ξινόμηλο (σε ασκό)",
-          "price": 8
-        },
-        {
-          "id": "chymos-serraia-1500ml-achladi-se-asko",
-          "name": "Χυμός Σερραία 1500ml",
-          "description": "Αχλάδι (σε ασκό)",
-          "price": 8.5
-        },
-        {
-          "id": "chymos-serraia-1500ml-stafyli-se-asko",
-          "name": "Χυμός Σερραία 1500ml",
-          "description": "Σταφύλι (σε ασκό)",
-          "price": 8.5
-        }
-      ]
-    },
-    {
-      "id": "chocolate-products",
-      "title": "Προϊόντα σοκολάτας",
-      "priceUnit": "piece",
-      "products": [
-        {
-          "id": "koyvertoyra-ion-stagones",
-          "name": "Κουβερτούρα ΙΟΝ",
-          "description": "Σταγόνες",
-          "price": 20
-        },
-        {
-          "id": "koyvertoyra-apom-stagones",
-          "name": "Κουβερτούρα Απομ.",
-          "description": "Σταγόνες",
-          "price": 6
-        },
-        {
-          "id": "sokolatenies-elitses",
-          "name": "Σοκολατένιες ελίτσες",
-          "price": 14
-        }
-      ]
-    },
-    {
-      "id": "jams-sweets",
-      "title": "Μαρμελάδες - Γλυκά του κουταλιού",
-      "priceUnit": "piece",
-      "products": [
-        {
-          "id": "nucrema-bueno",
-          "name": "Nucrema Bueno",
-          "price": 8
-        },
-        {
-          "id": "pralina-fraoyla",
-          "name": "Πραλίνα Φράουλα",
-          "price": 5
-        },
-        {
-          "id": "pralina-mpanana",
-          "name": "Πραλίνα Μπανάνα",
-          "price": 5
-        },
-        {
-          "id": "merenda-paylidi",
-          "name": "Merenda Παυλίδη",
-          "price": 7.5
-        },
-        {
-          "id": "mpiskoto-speculoos",
-          "name": "Μπισκότο Speculoos",
-          "price": 9
-        },
-        {
-          "id": "ion-leyki-sokolata",
-          "name": "ION λευκή σοκολάτα",
-          "price": 6
-        },
-        {
-          "id": "marmelada-alta-verikoko",
-          "name": "Μαρμελάδα Alta",
-          "description": "Βερίκοκο",
-          "price": 2.5
-        },
-        {
-          "id": "marmelada-alta-syko",
-          "name": "Μαρμελάδα Alta",
-          "description": "Σύκο",
-          "price": 2.5
-        },
-        {
-          "id": "marmelada-alta-rodakino",
-          "name": "Μαρμελάδα Alta",
-          "description": "Ροδάκινο",
-          "price": 2.5
-        },
-        {
-          "id": "marmelada-alta-fraoyla",
-          "name": "Μαρμελάδα Alta",
-          "description": "Φράουλα",
-          "price": 2.5
-        },
-        {
-          "id": "melasa-evergreen",
-          "name": "Μελάσα Evergreen",
-          "price": 3.6
-        },
-        {
-          "id": "glyko-toy-koytalioy-agriosyko",
-          "name": "Γλυκό του κουταλιού",
-          "description": "Αγριόσυκο",
-          "price": 5
-        },
-        {
-          "id": "glyko-toy-koytalioy-kerasi",
-          "name": "Γλυκό του κουταλιού",
-          "description": "Κεράσι",
-          "price": 7.5
-        },
-        {
-          "id": "glyko-toy-koytalioy-pergamonto",
-          "name": "Γλυκό του κουταλιού",
-          "description": "Περγαμόντο",
-          "price": 5
-        },
-        {
-          "id": "glyko-toy-koytalioy-karydaki",
-          "name": "Γλυκό του κουταλιού",
-          "description": "Καρυδάκι",
-          "price": 5
-        },
-        {
-          "id": "glyko-toy-koytalioy-agriovyssino",
-          "name": "Γλυκό του κουταλιού",
-          "description": "Αγριοβύσσινο",
-          "price": 7.5
-        },
-        {
-          "id": "ypovrychio-elma-masticha-chioy",
-          "name": "Υποβρύχιο ΕΛΜΑ",
-          "description": "Μαστίχα Χίου",
-          "price": 2.5
-        }
-      ]
-    },
-    {
-      "id": "bars",
-      "title": "Μπάρες",
-      "priceUnit": "piece",
-      "products": [
-        {
-          "id": "pasteli-ell-karpos-fistiki-fistikovoytyro",
-          "name": "Παστέλι Ελλ. Καρπός",
-          "description": "Φιστίκι & Φιστικοβούτυρο",
-          "price": 1.2
-        },
-        {
-          "id": "pasteli-ell-karpos-soysami-fistikovoytyro",
-          "name": "Παστέλι Ελλ. Καρπός",
-          "description": "σουσάμι & φιστικοβούτυρο",
-          "price": 1.2
-        },
-        {
-          "id": "mpares-energeias-ell-karpos-fistikovoytyro",
-          "name": "Μπάρες ενέργειας Ελλ. Καρπός",
-          "description": "Φιστικοβούτυρο",
-          "price": 1.5
-        },
-        {
-          "id": "mpares-energeias-ell-karpos-froyta-toy-dasoys",
-          "name": "Μπάρες ενέργειας Ελλ. Καρπός",
-          "description": "Φρούτα του δάσους",
-          "price": 1.5
-        },
-        {
-          "id": "mpares-energeias-ell-karpos-karyda-sokolata",
-          "name": "Μπάρες ενέργειας Ελλ. Καρπός",
-          "description": "Καρύδα-σοκολάτα",
-          "price": 1.5
-        },
-        {
-          "id": "vaflakia-mpoykitses-ell-karpos-fistikovoytyro",
-          "name": "Βαφλάκια μπουκίτσες Ελλ.καρπός",
-          "description": "Φιστικοβούτυρο",
-          "price": 2.5
-        },
-        {
-          "id": "pasteli-cheiropoiito-me-fistiki",
-          "name": "Παστέλι χειροποίητο",
-          "description": "Με φιστίκι",
-          "price": 9
         }
       ]
     },
@@ -929,9 +993,16 @@
           "name": "Χαλβάς Μακεδ",
           "description": "Βανίλια-κακάο",
           "price": 10
-        },
+        }
+      ]
+    },
+    {
+      "id": "biscuits",
+      "title": "Μπαράτ",
+      "priceUnit": "kilo",
+      "products": [
         {
-          "id": "pti-foyr-troyfas",
+          "id": "pti-four-troufas",
           "name": "Πτι-φουρ τρούφας",
           "price": 9
         },
@@ -947,61 +1018,61 @@
           "price": 10
         },
         {
-          "id": "poyrakia-me-tachini",
+          "id": "poyraki-me-tachini",
           "name": "Πουράκια",
           "description": "Με ταχίνι",
           "price": 12
         },
         {
-          "id": "mpaton-sale-me-regkato",
+          "id": "baton-sale-me-regkato",
           "name": "Μπατόν σαλέ",
           "description": "Με ρεγκάτο",
           "price": 10
         },
         {
-          "id": "mpiskoto-triple-choco-tripli-sokolata-tachini",
+          "id": "mpiskoto-triple-choco",
           "name": "Μπισκότο Triple choco",
           "description": "Τριπλή σοκολάτα-ταχίνι",
           "price": 12
         },
         {
-          "id": "pretsel-kritsini",
+          "id": "pretzel-kritsini",
           "name": "Πρέτσελ",
           "description": "Κριτσίνι",
           "price": 11
         },
         {
-          "id": "pti-foyr-lemoni",
+          "id": "pti-four-lemoni",
           "name": "Πτι-φουρ",
           "description": "Λεμόνι",
           "price": 12
         },
         {
-          "id": "pti-foyr-merenta",
+          "id": "pti-four-merenta",
           "name": "Πτι-φουρ",
           "description": "Μερέντα",
           "price": 10
         },
         {
-          "id": "pti-foyr-verikoko",
+          "id": "pti-four-verikoko",
           "name": "Πτι-φουρ",
           "description": "Βερίκοκο",
           "price": 10
         },
         {
-          "id": "pti-foyr-fraoyla",
+          "id": "pti-four-fraoyla",
           "name": "Πτι-φουρ",
           "description": "Φράουλα",
           "price": 10
         },
         {
-          "id": "pti-foyr-mpanana",
+          "id": "pti-four-banana",
           "name": "Πτι-φουρ",
           "description": "Μπανάνα",
           "price": 10
         },
         {
-          "id": "pti-foyr-cheesecake",
+          "id": "pti-four-cheesecake",
           "name": "Πτι-φουρ",
           "description": "Cheesecake",
           "price": 11
@@ -1017,6 +1088,43 @@
           "name": "Κριτσίνι",
           "description": "Λαχανικών",
           "price": 10
+        }
+      ]
+    },
+    {
+      "id": "corn-flakes",
+      "title": "Κόρν Φλέικς",
+      "priceUnit": "kilo",
+      "products": [
+        {
+          "id": "korn-fleiks-olikis",
+          "name": "Κόρν φλέικς",
+          "description": "Ολικής",
+          "price": 5.5
+        },
+        {
+          "id": "korn-fleiks-kalampokioy",
+          "name": "Κόρν φλέικς",
+          "description": "Καλαμποκιού",
+          "price": 4.5
+        },
+        {
+          "id": "korn-fleiks-dachtylidi-melioy",
+          "name": "Κόρν φλέικς",
+          "description": "Δαχτυλίδι μελιού",
+          "price": 6
+        },
+        {
+          "id": "korn-fleiks-choco",
+          "name": "Κόρν φλέικς",
+          "description": "Choco",
+          "price": 7
+        },
+        {
+          "id": "mpran-fleiks-xiroi-karpoi-apox-froyta",
+          "name": "Μπράν φλέικς",
+          "description": "Ξηροί καρποί/ Αποξ φρούτα",
+          "price": 8
         }
       ]
     },
@@ -1056,7 +1164,7 @@
           "price": 2
         },
         {
-          "id": "paprika-glykia-50gr",
+          "id": "paprika-glykeia-50gr",
           "name": "Πάπρικα γλυκιά",
           "description": "50γρ",
           "price": 1.1
@@ -1152,13 +1260,13 @@
           "price": 1.5
         },
         {
-          "id": "troyfa-mayris-sok-100gr",
+          "id": "troufa-mayris-sok-100gr",
           "name": "Τρούφα μαύρης σοκ",
           "description": "100γρ",
           "price": 1.5
         },
         {
-          "id": "troyfa-polychromi-100gr",
+          "id": "troufa-polychromi-100gr",
           "name": "Τρούφα πολύχρωμη",
           "description": "100γρ",
           "price": 1.8
@@ -1248,7 +1356,7 @@
           "price": 2
         },
         {
-          "id": "alati-imalaion-100gr",
+          "id": "alati-imalaiion-100gr",
           "name": "Αλάτι Ιμαλαϊων",
           "description": "100γρ",
           "price": 0.7
@@ -1284,7 +1392,7 @@
           "price": 1
         },
         {
-          "id": "dentrolivano-30gr",
+          "id": "dontrolichano-30gr",
           "name": "Δεντρολίβανο",
           "description": "30γρ",
           "price": 1
@@ -1356,13 +1464,13 @@
           "price": 1.6
         },
         {
-          "id": "moystarda-skoni-50gr",
+          "id": "moytarda-skoni-50gr",
           "name": "Μουστάρδα",
           "description": "σκόνη 50γρ",
           "price": 1.2
         },
         {
-          "id": "vegketa-250gr",
+          "id": "vegeta-250gr",
           "name": "Βεγκέτα",
           "description": "250γρ",
           "price": 2.5
@@ -1410,7 +1518,7 @@
           "price": 1.5
         },
         {
-          "id": "kakoyle-10gr",
+          "id": "kakoules-10gr",
           "name": "Κακουλέ",
           "description": "10γρ",
           "price": 1.5
@@ -1440,90 +1548,10 @@
           "price": 2.8
         },
         {
-          "id": "mylos-cookme-alati-imalaion-100gr",
+          "id": "mylos-cookme-alati-imalaiion-100gr",
           "name": "Μύλος Cookme",
           "description": "Αλάτι Ιμαλαϊων 100γρ",
           "price": 2.5
-        }
-      ]
-    },
-    {
-      "id": "dough-products",
-      "title": "Προϊόντα Ζύμης",
-      "priceUnit": "piece",
-      "products": [
-        {
-          "id": "fyllota-lachana-small-6tmch",
-          "name": "Φυλλωτά Λαχανά",
-          "description": "Small (6τμχ)",
-          "price": 4.5
-        },
-        {
-          "id": "fyllota-lachana-medium-6tmch",
-          "name": "Φυλλωτά Λαχανά",
-          "description": "Medium (6τμχ)",
-          "price": 5
-        },
-        {
-          "id": "diples",
-          "name": "Δίπλες",
-          "price": 5
-        },
-        {
-          "id": "yvriston",
-          "name": "Υβριστόν",
-          "price": 6
-        },
-        {
-          "id": "syron",
-          "name": "Συρόν",
-          "price": 7
-        },
-        {
-          "id": "trachanas-lachana-glykos-xinos",
-          "name": "Τραχανάς Λαχανά",
-          "description": "Γλυκός/Ξινός",
-          "price": 4
-        },
-        {
-          "id": "trachanas-cook-me-glykos-xinos-lachanikon",
-          "name": "Τραχανάς Cook me",
-          "description": "Γλυκός/Ξινός/Λαχανικών",
-          "price": 3.5
-        },
-        {
-          "id": "koyskoysaki",
-          "name": "Κουσκουσάκι",
-          "price": 3.5
-        },
-        {
-          "id": "pligoyri",
-          "name": "Πλιγούρι",
-          "price": 3
-        },
-        {
-          "id": "fylla-kroystas-psilo-500gr-8tmch",
-          "name": "Φύλλα Κρούστας",
-          "description": "Ψιλό (500γρ/8τμχ)",
-          "price": 2.5
-        },
-        {
-          "id": "fylla-pitas-chontro-500gr-8tmch",
-          "name": "Φύλλα πίτας",
-          "description": "Χοντρό (500γρ/8τμχ)",
-          "price": 2.5
-        },
-        {
-          "id": "aleyri-gia-oles-tis-chriseis",
-          "name": "Αλεύρι",
-          "description": "Για όλες τις χρήσεις",
-          "price": 0.8
-        },
-        {
-          "id": "aleyri-gia-tsoyreki",
-          "name": "Αλεύρι",
-          "description": "Για τσουρέκι",
-          "price": 1.9
         }
       ]
     }

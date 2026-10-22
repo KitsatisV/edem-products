@@ -153,13 +153,13 @@
           "id": "spori-mayro-psimeno-almyro",
           "name": "Σπόρι μαύρο",
           "description": "Ψημένο αλμυρό",
-          "price": 6
+          "price": 7
         },
         {
           "id": "spori-mayro-psimeno-analato",
           "name": "Σπόρι μαύρο",
           "description": "Ψημένο ανάλατο",
-          "price": 6
+          "price": 7
         },
         {
           "id": "spori-aspro-psimeno-almyro",
@@ -248,7 +248,7 @@
           "id": "kranmperi-choris-zachari",
           "name": "Κράνμπερι",
           "description": "Χωρίς Ζάχαρη",
-          "price": 12.5
+          "price": 14
         },
         {
           "id": "syko-leyko-theio",

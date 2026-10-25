@@ -631,13 +631,13 @@
           "id": "foyntoykovoytyro-choris-prostheta",
           "name": "Φουντουκοβούτυρο",
           "description": "Χωρίς πρόσθετα",
-          "price": 30
+          "price": 22
         },
         {
           "id": "foyntoykovoytyro-me-kakao",
           "name": "Φουντουκοβούτυρο",
           "description": "Με κακάο",
-          "price": 28
+          "price": 20
         },
         {
           "id": "tachini-olikis-choris-prostheta",
